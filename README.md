@@ -16,3 +16,6 @@ Creating the VBA code for this challege gave us the analysis for the data that t
 
 ### Summary
 In summary, creating VBA code to anylyze large data sets can be very effective if the anylyzing process becomes a repetive task. VBA code can be reused over and over as long as the parameter of the data do not change. Refractoring code in general is good practice. Code can be use in a variaty of ways and and can be reused, this is what is called design patterns. Design patterns can be modified to accomodate to the code you want to build. The disavantages can be that using other people code can be challenging to understand if the prson did not properly format the code of there are no comments to help the reader understand what each line does. But the advantages largely outweight to cons, as refractoring code can take parts of a larger code and improce its effectivenes.
+
+![VBA_Challenge_2017](https://user-images.githubusercontent.com/95899763/149704751-0a6d51d4-e020-4b0a-b3b2-7fbd29b0a34c.PNG)
+![VBA_Challenge_2018](https://user-images.githubusercontent.com/95899763/149704759-1c063056-bf25-4e87-98a7-1f4d138d0696.PNG)
