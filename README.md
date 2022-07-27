@@ -1,4 +1,4 @@
-# Stocks Analysis
+# Stocks Analysis with VBA
 
 ## Overview of Project
 In this challenge we are asked to analyze stocks data for a given 2017 and 2018 dataset. We are asked to create a code that will ask the user to enter the year of the data the he or she wants to analyze. The code will then return three columns: the tickers (stock abbreviations), the total daily volume and the returns. The last column is color formatted to clearly show negative and positive returns. Using the code, we can easily compare both years results.
